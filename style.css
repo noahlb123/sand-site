@@ -1,0 +1,46 @@
+:root {
+  --bg: #e6cbad;
+  --oblack: #2f2a29
+}
+
+* {
+  /*display: block;*/
+  color: var(--oblack);
+  font-family: "Bitter";
+  margin: none;
+  padding: none;
+}
+
+body {
+  background-color: var(--bg);
+}
+
+.center-text {
+  display: block;
+  margin: none;
+  text-align: center;
+}
+
+.small-text {
+  font-size: 30px;
+}
+
+.center-text-div {
+  display: block;
+  margin: auto;
+}
+
+#logo {
+  display: block;
+  margin: auto;
+}
+
+#rsvp-wrapper {
+  text-align: center;
+  margin-top: -20px;
+}
+
+.rsvp {
+  font-size: 25px;
+  margin: 0 5px;
+}
