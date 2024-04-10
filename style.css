@@ -1,6 +1,6 @@
 :root {
-  --bg: #e6cbad;
-  --oblack: #2f2a29
+  --bg: #b6e6a6;
+  --oblack: #000000;
 }
 
 * {
@@ -33,6 +33,7 @@ body {
 #logo {
   display: block;
   margin: auto;
+  width: 320px;
 }
 
 #rsvp-wrapper {
